@@ -20,7 +20,7 @@ To run this project on your machine you need to install any SQL-supported DBMS t
 - Model_year = year of electric car production
 - Make = Brand of electric car
 - Model = type of electric car
-- Electric_vehicle_type = Type of electric car used (BEV, HEV, PHEV, FCEV)
+- Electric_vehicle_type = Type of electric car used (BEV, PHEV)
 - Clean_alternative_fuel_vehicle_eligibility = fuel requirements and electric-only range requirements as outlined in RCW 82.08.809 and RCW 82.12.809 to qualify for retail sales of Alternative Fuel Vehicles and State use tax exemptions
 - electric_range = Describes how far a vehicle can travel purely on its electric charge.
 - base_msrp = base price plus additional features
